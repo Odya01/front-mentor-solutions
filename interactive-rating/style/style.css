@@ -98,7 +98,7 @@ h2{
   color: var(--Light);
   cursor: pointer;
 
-  transition: color, background .3s ease;
+  transition: color, background .5s ease;
 }
 .num:hover{
   color: var(--White);
@@ -126,7 +126,7 @@ h2{
 
   cursor: pointer;
 
-  transition: color, background .3s ease;
+  transition: color, background .5s ease;
 }
 .submit-btn:hover,
 .submit-btn:active{
